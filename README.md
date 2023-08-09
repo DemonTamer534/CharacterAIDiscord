@@ -11,7 +11,7 @@ Type `pip install -r requirements.txt`.
 Go to https://discord.com/developers and make an application. Go to the bot section, enable the message intent and copy the token. Open caibot.py in notepad or any code editing software and place the token in BOT_TOKEN.
 
 ## CharacterAI Token
-(This guide uses Chrome for reference, other browsers could ave slightly different methods).
+(This guide uses Chrome for reference, other browsers could have slightly different methods).
 Go to https://beta.character.ai/ and make an account (if you don't have one already) and open a chat with the character you wanna use for the bot.
 Press ctrl + shift + i, that should open a side menu.
 Go to "network" in the menu.
