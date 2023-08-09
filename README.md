@@ -28,7 +28,11 @@ The bot has a 0.2% chance of responding to random messages outside the `CHANNEL_
 (make sure to save your changes in caibot.py)
 
 # Run The Bot
+## Invite It
+In the developer portal, go to OAuth > URL Generator, select "bot" and in the menu under it select "send messages".
+Copy the generated URL. That's your bot's invite link.
 
+## Run It
 After you cd into the bot's directory, simply run it with `python caibot.py`
 
 Shoutouts to Cyclcrclicly#3420 for making this possible.
